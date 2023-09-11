@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/dQkTpwQ/3.png",
+    "title": "Learn React: Building User Interfaces with JavaScript Library",
+    "posted_date": "2023-09-10",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/ZLfvSZY/boy1.png",
+    "reading_time": 5,
+    "hashtags": ["#React", "#Skills", "#Advanced"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/QMbb8Fz/2.png",
+    "title": "The Art of Programming: Mastering Coding and Problem Solving",
+    "posted_date": "2023-09-09",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/TYrSStK/girl1.jpg",
+    "reading_time": 8,
+    "hashtags": ["#Beginners", "#Programming", "#JavaScript"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/vsGbYZc/1.jpg",
+    "title": "Exploring ES6 JavaScript: Modern Development Techniques and Features",
+    "posted_date": "2023-09-08",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/6Y5SzSr/girl2.jpg",
+    "reading_time": 10,
+    "hashtags": ["#ES6", "#JavaScript", "#Development"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/HBZDMLW/4.jpg",
+    "title": "Traveling Adventures: Discovering New Horizons and Cultures",
+    "posted_date": "2023-09-07",
+    "author": "Michael Brown",
+    "author_img": "https://i.ibb.co/XD2hwNK/boy2.jpg",
+    "reading_time": 12,
+    "hashtags": ["#Travel", "#Adventure", "#Explore"]
+  }
+]
