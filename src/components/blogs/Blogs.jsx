@@ -16,7 +16,7 @@ const Blogs = ({ handleAddToBookmark }) => {
       {blogs.map((blog) => (
         <Blog
           key={blog.id}
-          handleAddToBookmark={handleAddToBookmark}
+          handleAddToBookmark={() => handleAddToBookmark(blog)}
           blog={blog}
         ></Blog>
       ))}
